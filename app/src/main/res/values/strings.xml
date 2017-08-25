@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Search On FB</string>
+    <string name="facebook_app_id">1878863832393057</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="app_name_results">Results</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+    <string name="msgabout">About Me</string>
+    <string name="msgaddfav">Add to Favorites</string>
+    <string name="msgshare">Share</string>
+    <string name="msgfbsearch">Facebook Search</string>
+
+
+</resources>

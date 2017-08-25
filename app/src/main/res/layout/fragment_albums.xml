@@ -1,0 +1,29 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.skheberi.cs571app.AlbumsFragment">
+
+    <TextView
+        android:id="@+id/custTxtAbm"
+        android:layout_width="match_parent"
+
+        android:layout_height="wrap_content"
+        android:text="No albums available to display"
+        android:textSize="30dp"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        />
+
+    <!-- TODO: Update blank fragment layout -->
+    <ExpandableListView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="90dp"
+        android:id="@+id/expListView">
+
+    </ExpandableListView>
+
+
+</LinearLayout>
